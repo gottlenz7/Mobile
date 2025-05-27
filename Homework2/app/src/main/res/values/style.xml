@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Activity" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+    </style>
+</resources>
